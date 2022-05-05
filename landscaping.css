@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;  
+    text-align: center;
+}
+#Navbar {
+    text-align: left;
+}
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+#imga1 {
+    height: 50%;
+    width: 50%;
+}
+.images {
+    height: 20%;
+    width: 20%;
+    flex-direction: row;
+}
+.profile {
+    height: 5%;
+    width: 5%;
+    border-radius: 75%;
+}

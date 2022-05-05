@@ -1,0 +1,108 @@
+ /* background image was taken from https://pixabay.com no attribution required*/
+ h1 {
+     font-family: 'Cinzel', serif;
+ }
+ h3 {
+     font-family: 'Cinzel', serif;
+ }
+ body {
+     margin: 0;
+     padding: 80px 16px;
+     background-image: url(imgs/background.jpeg);
+     background-size: cover;
+     text-align: center;
+ }
+ div {
+     text-align: center;
+     background-color: white;
+     color: black;
+     padding-top: .5%;
+     padding-left: .5%;
+     padding-right: .5%;
+     padding-bottom: .5%;
+ }
+ a { 
+     color: black;
+ }
+ .profile {
+    height: 5%;
+    width: 5%;
+    border-radius: 75%;
+    margin-bottom: 0%;
+}
+ ol {
+     text-align: center;
+     list-style-position: inside;
+     font-size: large;
+ }
+
+.button{
+    text-align: center;
+} 
+ #bt1 {
+     border: solid black;
+     font-size: 200%;
+     width: 1370px;
+     box-shadow: inset 0 0 0 0 rgb(255, 0, 106);
+     transition: ease-out .3s;
+     outline: none;
+ }
+ #bt1:hover {
+     box-shadow: inset 1370px 0 0 0 rgb(255, 0, 106);
+ }
+ #bt2 {
+     border: solid black;
+     font-size: 200%;
+     width: 1370px;
+     box-shadow: inset 0 0 0 0 rgb(76, 0, 255);
+     transition: ease-out .3s;
+     outline: none;
+ }
+ #bt2:hover {
+     box-shadow: inset 1370px 0 0 0 rgb(76, 0, 255);
+ }
+ #bt3 {
+     border: solid black;
+     font-size: 200%;
+     width: 1370px;
+     box-shadow: inset 0 0 0 0 rgb(255, 251, 37);
+     transition: ease-out .3s;
+     outline: none;
+ }
+ #bt3:hover {
+     box-shadow: inset 1370px 0 0 0 rgb(255, 251, 37);
+ }
+ #bt12 {
+    border: solid black;
+    font-size: 200%;
+    width: 200px;
+    box-shadow: inset 0 0 0 0 rgb(255, 0, 106);
+    transition: ease-out .3s;
+    outline: none;
+}
+#bt12:hover {
+    box-shadow: inset 200px 0 0 0 rgb(255, 0, 106);
+}
+#bt22 {
+    border: solid black;
+    font-size: 200%;
+    width: 200px;
+    box-shadow: inset 0 0 0 0 rgb(76, 0, 255);
+    transition: ease-out .3s;
+    outline: none;
+}
+#bt22:hover {
+    box-shadow: inset 200px 0 0 0 rgb(76, 0, 255);
+}
+#bt32 {
+    border: solid black;
+    font-size: 200%;
+    width: 200px;
+    box-shadow: inset 0 0 0 0 rgb(255, 251, 37);
+    transition: ease-out .3s;
+    outline: none;
+}
+#bt32:hover {
+    box-shadow: inset 200px 0 0 0 rgb(255, 251, 37);
+}
+

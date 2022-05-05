@@ -1,0 +1,30 @@
+.profile {
+    height: 5%;
+    width: 5%;
+    border-radius: 75%;
+}
+.photos {
+    height: 100%;
+    width: 100%;
+}
+body {
+    background-color: black;
+    color: white;  
+    text-align: center;
+}
+#Navbar {
+    text-align: left;
+}
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+ /* #imga1 {
+    height: 50%;
+    width: 50%;
+}
+ #images {
+    height: 40%;
+    width: 40%;
+    flex-direction: row;
+} */
