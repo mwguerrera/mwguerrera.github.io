@@ -3,9 +3,13 @@
     width: 5%;
     border-radius: 75%;
 }
-.photos {
-    height: 100%;
-    width: 100%;
+.pic1 {
+    height: 50%;
+    width: 50%;
+}
+.pic2 {
+    height: 80%;
+    width: 80%;
 }
 body {
     background-color: black;
